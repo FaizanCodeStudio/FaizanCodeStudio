@@ -1,133 +1,122 @@
-# 📊 Financial Operations Analytics
-### Brazilian E-Commerce (Olist) · Revenue Forecasting · Churn Analysis · Profitability
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mohd+Faizan+Khan+👋;Data+Analytics+%7C+ML+Engineer;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Orders-30%2C000-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Customers-9%2C000-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL%20Views-8-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Notebooks-4-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ML%20Models-6-purple?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=FaizanCodeStudio&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🎯 Project Overview
+## 💫 About Me
 
-A full-stack **Financial Operations Analytics** project built on the **Olist Brazilian E-Commerce dataset**, combining three technologies across four Jupyter notebooks:
-
-| Technology | Role |
-|---|---|
-| 🐍 **Python** | Data generation, feature engineering, ML modelling |
-| 🗄️ **SQLite + SQL** | Data warehouse, 8 analytical views, all KPI queries |
-| 📓 **Jupyter** | Interactive analysis, visualisations, narrative reports |
+- 🔭 Currently working on **Data Analytics & ML Projects**
+- 🌱 Currently learning **React.js, Node.js** and **Cloud (AWS / GCP / Azure)**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohd-faizan-khan/)
+- ⚡ Fun fact: I turn raw data into stories that actually make decisions easier!
 
 ---
 
-## 🖥️ Executive Dashboard
+## 🌐 Connect With Me
 
-![Dashboard](visualizations/08_executive_dashboard.png)
-
----
-
-## 📊 Visualizations
-
-| Revenue Forecasting | Churn Analysis |
-|---|---|
-| ![](visualizations/04_revenue_forecast.png) | ![](visualizations/06_churn_analysis.png) |
-
-| Profitability | RFM Segments |
-|---|---|
-| ![](visualizations/07_profitability.png) | ![](visualizations/05_rfm_segments.png) |
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohd-faizan-khan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/FaizanCodeStudio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FaizanCodeStudio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 🗂️ Project Structure
+## 💻 Tech Stack
 
-```
-financial-ops-analytics/
-├── 📓 notebooks/
-│   ├── 01_EDA_SQL_Exploration.ipynb
-│   ├── 02_Revenue_Forecasting.ipynb
-│   ├── 03_Churn_Profitability.ipynb
-│   └── 04_Executive_Dashboard.ipynb
-├── 🐍 src/
-│   ├── generate_data.py
-│   ├── sql_loader.py
-│   ├── analysis_utils.py
-│   ├── train_models.py
-│   └── generate_report.py
-├── 🗄️ sql/
-│   └── financial_ops_queries.sql
-├── 🤖 models/
-│   ├── forecast_poly_ridge.pkl
-│   ├── forecast_gbm_regressor.pkl
-│   ├── churn_gbm_classifier.pkl
-│   ├── churn_random_forest.pkl
-│   └── model_metadata.json
-├── 📊 visualizations/          ← 9 PNG charts
-├── 📄 reports/                 ← HTML report
-├── run_all.py
-└── requirements.txt
-```
+### 🧠 Data & ML
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23AA4A44.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 🗄️ Databases & Query
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web & Cloud (Learning)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🗄️ SQL Views
+## 🚀 Featured Project
 
-| View | Purpose |
-|---|---|
-| `vw_order_financials` | Master join — revenue, margin, delivery |
-| `vw_monthly_revenue` | Monthly KPI aggregation |
-| `vw_category_profitability` | Category revenue & margin |
-| `vw_seller_performance` | Seller scorecard |
-| `vw_customer_rfm` | RFM scores + churn flag |
-| `vw_state_revenue` | Geographic breakdown |
-| `vw_payment_analysis` | Payment type mix |
-| `vw_churn_revenue_risk` | Revenue at risk by segment |
+### 🏥 Healthcare Readmission Predictor
+> Predicting 30-day hospital readmissions for diabetic patients using ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-Logistic%20Regression%20%7C%20Random%20Forest%20%7C%20XGBoost-orange?style=flat-square)
+![Dataset](https://img.shields.io/badge/Dataset-UCI-blue?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizanCodeStudio/healthcare-readmission)
 
 ---
 
-## 🚀 Quick Start
+## 📊 GitHub Stats
 
-```bash
-git clone https://github.com/FaizanCodeStudio/financial-ops-analytics.git
-cd financial-ops-analytics
-pip install -r requirements.txt
-python run_all.py
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizanCodeStudio&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanCodeStudio&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-## 🔑 Key Insights
-
-| Dimension | Insight |
-|---|---|
-| Revenue | 24-month upward trend; seasonal peaks Nov–Dec |
-| Top State | SP drives 38%+ of revenue |
-| Top Category | `bed_bath_table` by volume |
-| Avg Margin | ~84% gross margin |
-| Churn Rate | ~43% inactive >180 days |
-| Payment Mix | Credit card 74%, boleto 19% |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanCodeStudio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## 👨‍💻 Author
+## 🏆 GitHub Trophies
 
-**Mohd Faizan Khan**  
-[![GitHub](https://img.shields.io/badge/GitHub-FaizanCodeStudio-181717?style=flat-square&logo=github)](https://github.com/FaizanCodeStudio)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FaizanCodeStudio&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 📄 License
+## 📈 Contribution Graph
 
-MIT License
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanCodeStudio&theme=github-compact&hide_border=false" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
+
+<p align="center">
+  <b>✨ "In God we trust; all others must bring data." ✨</b>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=FaizanCodeStudio&icon=2&color=1" alt="Visit Count"/>
+  </a>
+</p>
+
+<!-- Proudly created by Mohd Faizan Khan -->
