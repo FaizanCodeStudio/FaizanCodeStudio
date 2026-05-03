@@ -108,17 +108,11 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</p>
-
-<p align="center">
   <b>✨ "In God we trust; all others must bring data." ✨</b>
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=FaizanCodeStudio&icon=2&color=1" alt="Visit Count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=FaizanCodeStudio&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views Counter"/>
 </p>
 
 <!-- Proudly created by Mohd Faizan Khan -->
