@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mohd+Faizan+Khan+👋;Data+Analytics+%7C+ML+Engineer;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hey there! I'm Mohd Faizan Khan 👋</h1>
+
+<h3 align="center">📊 Data Analyst & BI Developer | ML Engineer | Building Intelligent Systems 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FaizanCodeStudio&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
@@ -13,6 +13,7 @@
 - 🔭 Currently working on **Data Analytics & ML Projects**
 - 🌱 Currently learning **React.js, Node.js** and **Cloud (AWS / GCP / Azure)**
 - 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
+- 🌐 Portfolio: [faizanbuilds.netlify.app](https://faizanbuilds.netlify.app/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohd-faizan-khan/)
 - ⚡ Fun fact: I turn raw data into stories that actually make decisions easier!
 
@@ -26,6 +27,9 @@
   </a>
   <a href="https://github.com/FaizanCodeStudio" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-FaizanCodeStudio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://faizanbuilds.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-faizanbuilds.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
