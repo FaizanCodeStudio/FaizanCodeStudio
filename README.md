@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Mohd Faizan Khan 👋</h1>
+<h1 align="center">Hey there! I'm Mohd Faizan Khan👋</h1>
 
 <h3 align="center">📊 Data Analyst & BI Developer | ML Engineer | Building Intelligent Systems 🚀</h3>
 
